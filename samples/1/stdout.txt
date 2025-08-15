@@ -1,0 +1,182 @@
+-event0   DEVICE_ADDED                Video Bus                         seat0 default group1  cap:k
+-event1   DEVICE_ADDED                Lid Switch                        seat0 default group2  cap:S
+-event7   DEVICE_ADDED                Intel Touch Host Controller Touchscreen seat0 default group3  cap:t  size 273x181mm ntouches 1 calib
+-event10  DEVICE_ADDED                Intel Touch Host Controller Stylus seat0 default group3  cap:T  size 274x185mm left calib
+-event2   DEVICE_ADDED                gpio-keys                         seat0 default group4  cap:k
+-event3   DEVICE_ADDED                gpio-keys                         seat0 default group4  cap:k
+-event13  DEVICE_ADDED                Microsoft Surface 045E:09AE Keyboard seat0 default group5  cap:kp scroll-nat
+-event14  DEVICE_ADDED                Microsoft Surface 045E:09B0 Keyboard seat0 default group6  cap:k
+-event15  DEVICE_ADDED                Microsoft Surface 045E:09AF Mouse seat0 default group7  cap:p left scroll-nat scroll-button
+-event17  DEVICE_ADDED                Microsoft Surface 045E:09AF Touchpad seat0 default group7  cap:pg  size 96x52mm tap(dl off) left scroll-nat scroll-2fg-edge click-buttonareas-clickfinger dwt-on dwtp-on
+-event12  DEVICE_ADDED                Microsoft Surface KIP Tablet Mode Switch seat0 default group8  cap:S
+-event29  DEVICE_ADDED                ydotoold virtual device           seat0 default group9  cap:kp scroll-nat
+-event30  DEVICE_ADDED                keyd virtual keyboard             seat0 default group10 cap:k
+-event31  DEVICE_ADDED                keyd virtual pointer              seat0 default group11 cap:p left scroll-nat calib scroll-button
+-event27  DEVICE_ADDED                IPTSD Virtual Touchscreen 045E:0C37 seat0 default group12 cap:t  size 274x185mm ntouches 17 calib
+-event28  DEVICE_ADDED                IPTSD Virtual Stylus 045E:0C37    seat0 default group13 cap:T  size 274x185mm left calib
+-event17  GESTURE_HOLD_BEGIN          +0.040s	2
+ event17  GESTURE_HOLD_END            +0.067s	2 cancelled
+ event17  POINTER_MOTION              +0.074s	 -3.70/  1.11 (-10.00/ +3.00)
+ event17  POINTER_MOTION            2 +0.081s	 -3.68/  2.10 ( -7.00/ +4.00)
+ event17  POINTER_MOTION            3 +0.088s	 -4.73/  3.15 ( -9.00/ +6.00)
+ event17  POINTER_MOTION            4 +0.095s	 -6.84/  2.63 (-13.00/ +5.00)
+ event17  POINTER_MOTION            5 +0.102s	 -6.84/  3.15 (-13.00/ +6.00)
+ event17  POINTER_MOTION            6 +0.108s	 -6.84/  3.15 (-13.00/ +6.00)
+ event17  POINTER_MOTION            7 +0.115s	 -8.42/  4.21 (-16.00/ +8.00)
+ event17  POINTER_MOTION            8 +0.122s	 -6.84/  3.68 (-13.00/ +7.00)
+ event17  POINTER_MOTION            9 +0.129s	 -6.31/  3.68 (-12.00/ +7.00)
+ event17  POINTER_MOTION           10 +0.136s	 -8.41/  4.21 (-16.00/ +8.00)
+ event17  POINTER_MOTION           11 +0.143s	 -7.36/  3.68 (-14.00/ +7.00)
+ event17  POINTER_MOTION           12 +0.150s	 -5.78/  3.68 (-11.00/ +7.00)
+ event17  POINTER_MOTION           13 +0.156s	 -4.73/  3.15 ( -9.00/ +6.00)
+ event17  POINTER_MOTION           14 +0.163s	 -4.21/  3.68 ( -8.00/ +7.00)
+ event17  POINTER_MOTION           15 +0.170s	 -3.15/  3.15 ( -6.00/ +6.00)
+ event17  POINTER_MOTION           16 +0.177s	 -3.68/  2.63 ( -7.00/ +5.00)
+ event17  POINTER_MOTION           17 +0.184s	 -3.68/  3.15 ( -7.00/ +6.00)
+ event17  POINTER_MOTION           18 +0.191s	 -5.26/  4.21 (-10.00/ +8.00)
+ event17  POINTER_MOTION           19 +0.198s	 -6.31/  4.73 (-12.00/ +9.00)
+ event17  POINTER_MOTION           20 +0.204s	 -6.84/  4.21 (-13.00/ +8.00)
+ event17  POINTER_MOTION           21 +0.211s	 -6.84/  4.73 (-13.00/ +9.00)
+ event17  POINTER_MOTION           22 +0.218s	 -5.78/  4.21 (-11.00/ +8.00)
+ event17  POINTER_MOTION           23 +0.225s	 -6.31/  5.78 (-12.00/+11.00)
+ event17  POINTER_MOTION           24 +0.232s	 -6.84/  6.31 (-13.00/+12.00)
+ event17  POINTER_MOTION           25 +0.238s	 -5.26/  4.73 (-10.00/ +9.00)
+ event17  POINTER_MOTION           26 +0.245s	 -4.21/  4.21 ( -8.00/ +8.00)
+ event17  POINTER_MOTION           27 +0.252s	 -3.68/  3.15 ( -7.00/ +6.00)
+ event17  POINTER_MOTION           28 +0.259s	 -3.68/  4.21 ( -7.00/ +8.00)
+ event17  POINTER_MOTION           29 +0.266s	 -3.68/  4.73 ( -7.00/ +9.00)
+ event17  POINTER_MOTION           30 +0.273s	 -3.15/  4.21 ( -6.00/ +8.00)
+ event17  POINTER_MOTION           31 +0.279s	 -1.58/  2.10 ( -3.00/ +4.00)
+ event17  POINTER_MOTION           32 +0.286s	 -1.05/  1.05 ( -2.00/ +2.00)
+ event17  GESTURE_HOLD_BEGIN          +1.634s	2
+ event17  GESTURE_HOLD_END            +1.696s	2 cancelled
+ event17  POINTER_SCROLL_FINGER       +1.703s	vert 0.00/0.0 horiz -1.84/0.0* (finger)
+ event17  POINTER_SCROLL_FINGER     2 +1.709s	vert 0.00/0.0 horiz -1.84/0.0* (finger)
+ event17  POINTER_SCROLL_FINGER     3 +1.716s	vert 0.00/0.0* horiz 0.00/0.0* (finger)
+ event17  GESTURE_PINCH_BEGIN         +1.723s	2
+ event17  GESTURE_PINCH_UPDATE        +1.730s	2 -1.43/-0.48 (-1.58/-0.53 unaccelerated)  1.09 @  0.37
+ event17  GESTURE_PINCH_UPDATE      2 +1.737s	2 -2.10/-0.79 (-2.10/-0.79 unaccelerated)  1.14 @  0.39
+ event17  GESTURE_PINCH_UPDATE      3 +1.744s	2 -2.10/-0.53 (-2.10/-0.53 unaccelerated)  1.19 @  0.43
+ event17  GESTURE_PINCH_UPDATE      4 +1.751s	2 -1.84/-0.53 (-1.84/-0.53 unaccelerated)  1.23 @  0.34
+ event17  GESTURE_PINCH_UPDATE      5 +1.757s	2 -1.58/-1.05 (-1.58/-1.05 unaccelerated)  1.29 @  0.22
+ event17  GESTURE_PINCH_UPDATE      6 +1.764s	2 -1.84/-0.26 (-1.84/-0.26 unaccelerated)  1.33 @  0.12
+ event17  GESTURE_PINCH_UPDATE      7 +1.771s	2 -1.58/-0.53 (-1.58/-0.53 unaccelerated)  1.39 @  0.06
+ event17  GESTURE_PINCH_UPDATE      8 +1.778s	2 -1.05/-1.05 (-1.05/-1.05 unaccelerated)  1.44 @ -0.04
+ event17  GESTURE_PINCH_UPDATE      9 +1.785s	2 -1.84/ 0.00 (-1.84/ 0.00 unaccelerated)  1.48 @  0.16
+ event17  GESTURE_PINCH_UPDATE     10 +1.792s	2 -1.31/-0.79 (-1.31/-0.79 unaccelerated)  1.54 @  0.16
+ event17  GESTURE_PINCH_UPDATE     11 +1.798s	2 -1.84/-0.79 (-1.84/-0.79 unaccelerated)  1.59 @  0.15
+ event17  GESTURE_PINCH_UPDATE     12 +1.805s	2 -1.84/-1.31 (-1.84/-1.31 unaccelerated)  1.65 @  0.22
+ event17  GESTURE_PINCH_UPDATE     13 +1.812s	2 -1.31/-1.58 (-1.31/-1.58 unaccelerated)  1.71 @  0.15
+ event17  GESTURE_PINCH_UPDATE     14 +1.819s	2  0.26/-1.31 ( 0.26/-1.31 unaccelerated)  1.77 @  0.09
+ event17  GESTURE_PINCH_UPDATE     15 +1.826s	2  0.26/-1.84 ( 0.26/-1.84 unaccelerated)  1.84 @  0.23
+ event17  GESTURE_PINCH_UPDATE     16 +1.833s	2 -0.53/-1.05 (-0.53/-1.05 unaccelerated)  1.90 @  0.30
+ event17  GESTURE_PINCH_UPDATE     17 +1.839s	2 -1.05/-0.79 (-1.05/-0.79 unaccelerated)  1.96 @  0.28
+ event17  GESTURE_PINCH_UPDATE     18 +1.846s	2 -0.53/-0.26 (-0.53/-0.26 unaccelerated)  2.00 @  0.09
+ event17  GESTURE_PINCH_UPDATE     19 +1.853s	2 -0.79/ 0.00 (-0.79/ 0.00 unaccelerated)  2.04 @ -0.05
+ event17  GESTURE_PINCH_UPDATE     20 +1.860s	2 -0.26/-0.53 (-0.26/-0.53 unaccelerated)  2.07 @ -0.03
+ event17  GESTURE_PINCH_UPDATE     21 +1.867s	2 -0.79/ 0.26 (-0.79/ 0.26 unaccelerated)  2.10 @ -0.05
+ event17  GESTURE_PINCH_UPDATE     22 +1.874s	2 -0.79/ 0.26 (-0.79/ 0.26 unaccelerated)  2.13 @  0.04
+ event17  GESTURE_PINCH_UPDATE     23 +1.880s	2 -1.05/ 0.53 (-1.05/ 0.53 unaccelerated)  2.15 @  0.05
+ event17  GESTURE_PINCH_UPDATE     24 +1.887s	2 -1.31/ 0.79 (-1.31/ 0.79 unaccelerated)  2.18 @ -0.02
+ event17  GESTURE_PINCH_UPDATE     25 +1.894s	2  0.00/ 0.00 ( 0.00/ 0.00 unaccelerated)  2.19 @  0.01
+ event17  GESTURE_PINCH_UPDATE     26 +1.901s	2 -2.10/ 1.31 (-2.10/ 1.31 unaccelerated)  2.23 @  0.02
+ event17  GESTURE_PINCH_UPDATE     27 +1.907s	2 -0.26/ 0.53 (-0.26/ 0.53 unaccelerated)  2.26 @  0.06
+ event17  GESTURE_PINCH_UPDATE     28 +1.915s	2  2.10/-0.79 ( 2.10/-0.79 unaccelerated)  2.29 @  0.18
+ event17  GESTURE_PINCH_UPDATE     29 +1.921s	2  0.53/-0.26 ( 0.53/-0.26 unaccelerated)  2.31 @  0.05
+ event17  GESTURE_PINCH_UPDATE     30 +1.928s	2  0.25/ 0.00 ( 0.26/ 0.00 unaccelerated)  2.31 @  0.01
+ event17  GESTURE_PINCH_UPDATE     31 +1.935s	2  0.00/ 0.20 ( 0.00/ 0.26 unaccelerated)  2.32 @  0.02
+ event17  GESTURE_PINCH_END           +1.947s	2
+ event17  GESTURE_HOLD_BEGIN          +3.898s	2
+ event17  GESTURE_HOLD_END            +4.054s	2 cancelled
+ event17  GESTURE_PINCH_BEGIN         +4.091s	3
+ event17  GESTURE_PINCH_UPDATE        +4.098s	3  2.36/-0.24 ( 2.63/-0.26 unaccelerated)  0.95 @ -0.46
+ event17  GESTURE_PINCH_UPDATE      2 +4.105s	3  3.42/ 0.26 ( 3.42/ 0.26 unaccelerated)  0.92 @ -0.51
+ event17  GESTURE_PINCH_UPDATE      3 +4.112s	3  1.84/ 0.79 ( 1.84/ 0.79 unaccelerated)  0.90 @ -0.45
+ event17  GESTURE_PINCH_UPDATE      4 +4.118s	3  2.37/ 1.31 ( 2.37/ 1.31 unaccelerated)  0.86 @ -0.68
+ event17  GESTURE_PINCH_UPDATE      5 +4.125s	3  2.37/ 1.84 ( 2.37/ 1.84 unaccelerated)  0.82 @ -0.92
+ event17  GESTURE_PINCH_UPDATE      6 +4.132s	3 -0.79/ 2.89 (-0.79/ 2.89 unaccelerated)  0.79 @ -0.63
+ event17  GESTURE_PINCH_UPDATE      7 +4.139s	3 -1.05/ 2.10 (-1.05/ 2.10 unaccelerated)  0.77 @ -0.33
+ event17  GESTURE_PINCH_UPDATE      8 +4.146s	3 -2.37/ 2.89 (-2.37/ 2.89 unaccelerated)  0.75 @ -0.09
+ event17  GESTURE_PINCH_UPDATE      9 +4.152s	3 -2.89/ 2.89 (-2.89/ 2.89 unaccelerated)  0.74 @ -0.01
+ event17  GESTURE_PINCH_END           +4.191s	3
+ event17  GESTURE_PINCH_BEGIN         +5.158s	3
+ event17  GESTURE_PINCH_UPDATE        +5.165s	3 -0.96/-0.48 (-1.05/-0.53 unaccelerated)  1.05 @  0.40
+ event17  GESTURE_PINCH_UPDATE      2 +5.172s	3 -1.05/-0.79 (-1.05/-0.79 unaccelerated)  1.07 @  0.48
+ event17  GESTURE_PINCH_UPDATE      3 +5.179s	3 -1.31/-0.79 (-1.31/-0.79 unaccelerated)  1.10 @  0.49
+ event17  GESTURE_PINCH_UPDATE      4 +5.186s	3 -1.31/-0.79 (-1.31/-0.79 unaccelerated)  1.13 @  0.47
+ event17  GESTURE_PINCH_UPDATE      5 +5.193s	3 -1.05/-0.53 (-1.05/-0.53 unaccelerated)  1.15 @  0.32
+ event17  GESTURE_PINCH_UPDATE      6 +5.199s	3 -0.53/-0.79 (-0.53/-0.79 unaccelerated)  1.17 @  0.20
+ event17  GESTURE_PINCH_UPDATE      7 +5.206s	3  0.00/-1.05 ( 0.00/-1.05 unaccelerated)  1.19 @  0.30
+ event17  GESTURE_PINCH_UPDATE      8 +5.213s	3 -0.53/-0.79 (-0.53/-0.79 unaccelerated)  1.22 @  0.21
+ event17  GESTURE_PINCH_UPDATE      9 +5.220s	3 -0.53/-1.31 (-0.53/-1.31 unaccelerated)  1.25 @  0.33
+ event17  GESTURE_PINCH_UPDATE     10 +5.227s	3 -0.79/-1.58 (-0.79/-1.58 unaccelerated)  1.28 @  0.45
+ event17  GESTURE_PINCH_UPDATE     11 +5.234s	3 -0.53/-1.58 (-0.53/-1.58 unaccelerated)  1.32 @  0.42
+ event17  GESTURE_PINCH_UPDATE     12 +5.240s	3 -0.79/-1.84 (-0.79/-1.84 unaccelerated)  1.36 @  0.27
+ event17  GESTURE_PINCH_UPDATE     13 +5.247s	3 -1.58/-1.58 (-1.58/-1.58 unaccelerated)  1.40 @  0.35
+ event17  GESTURE_PINCH_UPDATE     14 +5.254s	3 -2.10/-2.37 (-2.10/-2.37 unaccelerated)  1.45 @  0.49
+ event17  GESTURE_PINCH_UPDATE     15 +5.261s	3 -0.53/-2.63 (-0.53/-2.63 unaccelerated)  1.50 @  0.37
+ event17  GESTURE_PINCH_UPDATE     16 +5.268s	3 -0.26/-2.10 (-0.26/-2.10 unaccelerated)  1.54 @  0.27
+ event17  GESTURE_PINCH_UPDATE     17 +5.275s	3 -2.37/-1.58 (-2.37/-1.58 unaccelerated)  1.58 @  0.37
+ event17  GESTURE_PINCH_UPDATE     18 +5.281s	3 -2.37/-1.84 (-2.37/-1.84 unaccelerated)  1.62 @  0.37
+ event17  GESTURE_PINCH_UPDATE     19 +5.288s	3 -1.05/-1.58 (-1.05/-1.58 unaccelerated)  1.65 @  0.22
+ event17  GESTURE_PINCH_UPDATE     20 +5.295s	3  1.58/-1.84 ( 1.58/-1.84 unaccelerated)  1.67 @  0.04
+ event17  GESTURE_PINCH_UPDATE     21 +5.302s	3  1.58/-1.05 ( 1.58/-1.05 unaccelerated)  1.68 @  0.06
+ event17  GESTURE_PINCH_UPDATE     22 +5.309s	3 -2.89/-1.05 (-2.89/-1.05 unaccelerated)  1.71 @  0.45
+ event17  GESTURE_PINCH_UPDATE     23 +5.316s	3  1.05/-1.05 ( 1.05/-1.05 unaccelerated)  1.73 @  0.10
+ event17  GESTURE_PINCH_UPDATE     24 +5.322s	3  1.31/-1.05 ( 1.31/-1.05 unaccelerated)  1.74 @  0.04
+ event17  GESTURE_PINCH_UPDATE     25 +5.329s	3  1.05/-0.79 ( 1.05/-0.79 unaccelerated)  1.75 @  0.05
+ event17  GESTURE_PINCH_UPDATE     26 +5.336s	3  0.53/-0.53 ( 0.53/-0.53 unaccelerated)  1.76 @  0.01
+ event17  GESTURE_PINCH_UPDATE     27 +5.343s	3  0.26/-0.26 ( 0.26/-0.26 unaccelerated)  1.76 @  0.02
+ event17  GESTURE_PINCH_END           +5.368s	3
+ event17  GESTURE_PINCH_BEGIN         +7.157s	4
+ event17  GESTURE_PINCH_UPDATE        +7.164s	4  1.21/ 0.00 ( 1.31/ 0.00 unaccelerated)  0.97 @ -0.25
+ event17  GESTURE_PINCH_UPDATE      2 +7.170s	4  1.05/ 0.26 ( 1.05/ 0.26 unaccelerated)  0.95 @ -0.18
+ event17  GESTURE_PINCH_UPDATE      3 +7.177s	4  1.31/ 0.00 ( 1.31/ 0.00 unaccelerated)  0.93 @ -0.25
+ event17  GESTURE_PINCH_UPDATE      4 +7.184s	4  2.63/ 0.26 ( 2.63/ 0.26 unaccelerated)  0.91 @ -0.49
+ event17  GESTURE_PINCH_UPDATE      5 +7.191s	4  3.42/ 0.26 ( 3.42/ 0.26 unaccelerated)  0.89 @ -0.54
+ event17  GESTURE_PINCH_UPDATE      6 +7.197s	4  2.89/ 0.26 ( 2.89/ 0.26 unaccelerated)  0.86 @ -0.49
+ event17  GESTURE_PINCH_UPDATE      7 +7.204s	4  2.89/ 0.79 ( 2.89/ 0.79 unaccelerated)  0.84 @ -0.44
+ event17  GESTURE_PINCH_UPDATE      8 +7.211s	4  3.68/ 0.26 ( 3.68/ 0.26 unaccelerated)  0.82 @ -0.59
+ event17  GESTURE_PINCH_UPDATE      9 +7.218s	4  4.21/ 0.00 ( 4.21/ 0.00 unaccelerated)  0.80 @ -0.67
+ event17  GESTURE_PINCH_UPDATE     10 +7.225s	4  2.63/ 0.26 ( 2.63/ 0.26 unaccelerated)  0.78 @ -0.39
+ event17  GESTURE_PINCH_UPDATE     11 +7.232s	4  1.84/-0.26 ( 1.84/-0.26 unaccelerated)  0.77 @ -0.27
+ event17  GESTURE_PINCH_UPDATE     12 +7.239s	4  1.58/ 0.00 ( 1.58/ 0.00 unaccelerated)  0.76 @ -0.28
+ event17  GESTURE_PINCH_UPDATE     13 +7.245s	4  1.05/ 0.26 ( 1.05/ 0.26 unaccelerated)  0.75 @ -0.24
+ event17  GESTURE_PINCH_UPDATE     14 +7.252s	4  0.79/ 0.26 ( 0.79/ 0.26 unaccelerated)  0.74 @ -0.29
+ event17  GESTURE_PINCH_UPDATE     15 +7.259s	4  0.79/ 0.26 ( 0.79/ 0.26 unaccelerated)  0.73 @ -0.20
+ event17  GESTURE_PINCH_UPDATE     16 +7.266s	4  0.26/ 0.53 ( 0.26/ 0.53 unaccelerated)  0.72 @ -0.35
+ event17  GESTURE_PINCH_UPDATE     17 +7.273s	4  0.00/ 0.79 ( 0.00/ 0.79 unaccelerated)  0.71 @ -0.37
+ event17  GESTURE_PINCH_UPDATE     18 +7.279s	4  0.26/ 1.05 ( 0.26/ 1.05 unaccelerated)  0.70 @ -0.27
+ event17  GESTURE_PINCH_UPDATE     19 +7.286s	4  0.26/ 1.31 ( 0.26/ 1.31 unaccelerated)  0.69 @ -0.24
+ event17  GESTURE_PINCH_END           +7.339s	4
+ event17  GESTURE_PINCH_BEGIN         +8.087s	4
+ event17  GESTURE_PINCH_UPDATE        +8.094s	4 -2.26/-0.50 (-2.37/-0.53 unaccelerated)  1.05 @  0.30
+ event17  GESTURE_PINCH_UPDATE      2 +8.100s	4 -2.37/-0.79 (-2.37/-0.79 unaccelerated)  1.06 @  0.34
+ event17  GESTURE_PINCH_UPDATE      3 +8.107s	4 -2.63/-0.26 (-2.63/-0.26 unaccelerated)  1.08 @  0.37
+ event17  GESTURE_PINCH_UPDATE      4 +8.114s	4 -3.15/ 0.26 (-3.15/ 0.26 unaccelerated)  1.10 @  0.36
+ event17  GESTURE_PINCH_UPDATE      5 +8.121s	4 -3.68/ 0.26 (-3.68/ 0.26 unaccelerated)  1.12 @  0.43
+ event17  GESTURE_PINCH_UPDATE      6 +8.128s	4 -3.15/ 0.79 (-3.15/ 0.79 unaccelerated)  1.15 @  0.41
+ event17  GESTURE_PINCH_UPDATE      7 +8.135s	4 -2.10/ 1.05 (-2.10/ 1.05 unaccelerated)  1.17 @  0.28
+ event17  GESTURE_PINCH_UPDATE      8 +8.142s	4 -1.84/ 0.26 (-1.84/ 0.26 unaccelerated)  1.19 @  0.27
+ event17  GESTURE_PINCH_UPDATE      9 +8.148s	4 -1.58/ 0.26 (-1.58/ 0.26 unaccelerated)  1.21 @  0.30
+ event17  GESTURE_PINCH_UPDATE     10 +8.155s	4 -2.10/ 0.26 (-2.10/ 0.26 unaccelerated)  1.23 @  0.36
+ event17  GESTURE_PINCH_UPDATE     11 +8.162s	4 -1.84/-0.26 (-1.84/-0.26 unaccelerated)  1.25 @  0.32
+ event17  GESTURE_PINCH_UPDATE     12 +8.169s	4 -1.58/ 0.00 (-1.58/ 0.00 unaccelerated)  1.27 @  0.31
+ event17  GESTURE_PINCH_UPDATE     13 +8.176s	4 -1.31/-0.26 (-1.31/-0.26 unaccelerated)  1.29 @  0.31
+ event17  GESTURE_PINCH_UPDATE     14 +8.183s	4 -0.79/-0.79 (-0.79/-0.79 unaccelerated)  1.30 @  0.30
+ event17  GESTURE_PINCH_UPDATE     15 +8.189s	4 -0.26/-1.05 (-0.26/-1.05 unaccelerated)  1.33 @  0.24
+ event17  GESTURE_PINCH_UPDATE     16 +8.196s	4 -1.05/-1.31 (-1.05/-1.31 unaccelerated)  1.35 @  0.29
+ event17  GESTURE_PINCH_UPDATE     17 +8.203s	4 -2.89/-1.05 (-2.89/-1.05 unaccelerated)  1.38 @  0.47
+ event17  GESTURE_PINCH_UPDATE     18 +8.210s	4 -2.89/-1.31 (-2.89/-1.31 unaccelerated)  1.41 @  0.40
+ event17  GESTURE_PINCH_UPDATE     19 +8.217s	4 -1.31/-1.84 (-1.31/-1.84 unaccelerated)  1.45 @  0.32
+ event17  GESTURE_PINCH_UPDATE     20 +8.224s	4 -1.05/-1.31 (-1.05/-1.31 unaccelerated)  1.48 @  0.26
+ event17  GESTURE_PINCH_UPDATE     21 +8.230s	4  1.84/-1.84 ( 1.84/-1.84 unaccelerated)  1.50 @  0.09
+ event17  GESTURE_PINCH_UPDATE     22 +8.237s	4 -6.05/ 0.00 (-6.05/ 0.00 unaccelerated)  1.55 @  0.78
+ event17  GESTURE_PINCH_UPDATE     23 +8.244s	4 -0.26/-0.26 (-0.26/-0.26 unaccelerated)  1.58 @  0.18
+ event17  GESTURE_PINCH_UPDATE     24 +8.251s	4 -0.78/ 1.04 (-0.79/ 1.05 unaccelerated)  1.60 @  0.02
+ event17  GESTURE_PINCH_UPDATE     25 +8.258s	4 -0.26/ 0.53 (-0.26/ 0.53 unaccelerated)  1.61 @  0.04
+ event17  GESTURE_PINCH_UPDATE     26 +8.265s	4  0.00/ 0.25 ( 0.00/ 0.26 unaccelerated)  1.62 @ -0.00
+ event17  GESTURE_PINCH_UPDATE     27 +8.271s	4 -6.53/ 3.52 (-6.84/ 3.68 unaccelerated)  1.65 @  0.22
+ event17  GESTURE_PINCH_END           +8.309s	4
+-event30  KEYBOARD_KEY                +10.420s	*** (-1) pressed
+ event30  KEYBOARD_KEY                +10.614s	*** (-1) pressed
