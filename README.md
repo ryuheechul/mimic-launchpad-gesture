@@ -116,4 +116,4 @@ These can be set in your shell before running `make run` or directly within the 
 *   `samples/`: Directory containing sample `libinput` event outputs for testing.
 
 ## Roadmap
-- [ ] Provide a systemd service (via a NixOS module)
+- [x] Provide a systemd service (via a NixOS module)
